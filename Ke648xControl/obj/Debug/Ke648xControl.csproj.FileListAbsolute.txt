@@ -1,0 +1,3 @@
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\sensor_control1\Ke648xControl\Ke648xControl\bin\Debug\ke6487control.exe.config
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\sensor_control1\Ke648xControl\Ke648xControl\obj\Debug\ke6487control.exe
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\sensor_control1\Ke648xControl\Ke648xControl\obj\Debug\ke6487control.pdb
